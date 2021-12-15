@@ -13,7 +13,7 @@ MADE WITH ❤︎ BY ZYN
 
 <div align="center">
 
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Zyn+WA+Bot+repo;Created+by+fasil;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![Zyn](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Zyn+WA+Bot+repo;Created+by+fasil;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
@@ -24,11 +24,11 @@ MADE WITH ❤︎ BY ZYN
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Zyn-ser"><img title="Author" src="https://img.shields.io/badge/Author-Zyn-ser?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Zyn-ser">Zyn-ser</a>
     <br>
        | © |
         Reserved |
@@ -49,9 +49,9 @@ MADE WITH ❤︎ BY ZYN
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zyn-ser&show_icons=true&theme=dark&locale=en" alt="Zyn-ser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usrbot&theme=dark" alt="muhammed-usrbot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zyn-ser&theme=dark" alt="Zyn-ser" /></p>
 </p>
 
 
@@ -97,8 +97,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/muhammed-usrbot/taurus-bot
-$ cd taurus-bot
+$ git clone https://github.com/Zyn-ser/Zyn
+$ cd Zyn
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -107,8 +107,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/muhammed-usrbot/taurus-bot
-$ cd taurus-bot
+$ git clone https://github.com/Zyn-ser/Zyn
+$ cd Zyn
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -122,21 +122,21 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Taurus-Bot executives do not accept responsibility.
-By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
+Absolutely, Zyn-Bot executives do not accept responsibility.
+By establishing the Zyn-Bot, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers 
   <div align="center">
     
-  [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
+  [![Zyn-ser](https://github.com/Zyn-ser.png?size=100)](https://github.com/Zyn-ser) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
 ----|----|----
-[MUHAMMED](https://github.com/muhammed-usrbot) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
+[MUHAMMED](https://github.com/Zyn-ser) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributer 
-`MUHAMMED`
+`ZYN`
         
         
 ## License 
